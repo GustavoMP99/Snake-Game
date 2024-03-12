@@ -1,0 +1,11 @@
+Instructions to run: 
+
+1. Open terminal: 
+
+First command: javac GameFrame.java GamePanel.java SnakeGame.java
+
+In charge of load changes to the game
+
+Run SnakeGame.java
+
+Program will then open.
